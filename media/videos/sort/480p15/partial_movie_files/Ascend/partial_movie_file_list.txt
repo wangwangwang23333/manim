@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/12094/Desktop/manimProject/manim/media/videos/sort/480p15/partial_movie_files/Ascend/3163782288_4172133558_2530642164.mp4'
+file 'file:C:/Users/12094/Desktop/manimProject/manim/media/videos/sort/480p15/partial_movie_files/Ascend/1495979052_2578654874_3674744297.mp4'
+file 'file:C:/Users/12094/Desktop/manimProject/manim/media/videos/sort/480p15/partial_movie_files/Ascend/1495979052_1468948533_2111745748.mp4'
+file 'file:C:/Users/12094/Desktop/manimProject/manim/media/videos/sort/480p15/partial_movie_files/Ascend/1495979052_299403393_3689326910.mp4'
+file 'file:C:/Users/12094/Desktop/manimProject/manim/media/videos/sort/480p15/partial_movie_files/Ascend/1495979052_2848091717_2428576681.mp4'
+file 'file:C:/Users/12094/Desktop/manimProject/manim/media/videos/sort/480p15/partial_movie_files/Ascend/1495979052_379481492_2232324924.mp4'
+file 'file:C:/Users/12094/Desktop/manimProject/manim/media/videos/sort/480p15/partial_movie_files/Ascend/1495979052_2848091717_2366586937.mp4'
+file 'file:C:/Users/12094/Desktop/manimProject/manim/media/videos/sort/480p15/partial_movie_files/Ascend/1495979052_3811323300_1105802723.mp4'
+file 'file:C:/Users/12094/Desktop/manimProject/manim/media/videos/sort/480p15/partial_movie_files/Ascend/1495979052_2848091717_1412254848.mp4'
+file 'file:C:/Users/12094/Desktop/manimProject/manim/media/videos/sort/480p15/partial_movie_files/Ascend/1495979052_3814916386_3339149706.mp4'
